@@ -17,8 +17,8 @@ const projects = [
       "A simple frontend app to search countries and view their population, language, and region using live API data.",
     image: "/projects/project2.png",
     tags: ["React", "TailwindCSS"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://country-explorer-nine-jet.vercel.app/",
+    githubUrl: "https://github.com/Rao-DEV15/Country-explorer/tree/main",
   },
 
 ];

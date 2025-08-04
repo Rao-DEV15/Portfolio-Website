@@ -111,9 +111,10 @@ export const ContactSection = () => {
             </div>
 
             <div className="pt-8">
-              <h4 className="font-medium mb-4"> See My Github Profile</h4>
+              <h4 className="font-medium mb-4"> My Linkedin and Github</h4>
               <div className="flex space-x-4 justify-center">
                 <a href="https://github.com/Rao-DEV15" target="_blank"><Github /></a>
+                <a href="https://www.linkedin.com/in/adus-ahmad-6a7929328/" target="_blank"><Linkedin/></a>
               </div>
             </div>
           </div>

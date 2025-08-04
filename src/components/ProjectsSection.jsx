@@ -6,7 +6,7 @@ const projects = [
     title: "Stock Ease",
     description: "Inventory management app with real-time updates and responsive design.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "FireBase"],
+    tags: ["React", "TailwindCSS", "FireBase","Express","Cloudinary","dotenv","CORS"],
     demoUrl: "https://stock-ease-five.vercel.app/",
     githubUrl: "https://github.com/Rao-DEV15/stock-ease",
   },

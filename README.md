@@ -3,8 +3,9 @@ This project is based on the Pedrotech template by Pedrotech with the following 
 
 Added a Download CV function
 
-Enabled Light Mode toggle on small screens
+Disabled Light Mode toggle on small screens
 
 Integrated frontend email submission using Web3Forms to make the contact form functional
 
 These improvements enhance the user experience while building on the solid foundation of the original template.
+

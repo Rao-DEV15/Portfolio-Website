@@ -20,7 +20,16 @@ const projects = [
     demoUrl: "https://country-explorer-nine-jet.vercel.app/",
     githubUrl: "https://github.com/Rao-DEV15/Country-explorer/tree/main",
   },
-
+  {
+    id: 3,
+    title: "QrCode Generator",
+    description:
+      "A simple frontend app with a landing page that generate coustomize qr code with any possible datatype  .",
+    image: "/projects/Project3.jpg",
+    tags: ["React", "TailwindCSS"],
+    demoUrl: "https://qrquickk.vercel.app/",
+    githubUrl: "https://github.com/Rao-DEV15/QrCode-LandingPage",
+  },
 ];
 
 export const ProjectsSection = () => {
@@ -37,7 +46,7 @@ export const ProjectsSection = () => {
           crafted with attention to detail, performance, and user experience.
         </p>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-8">
           {projects.map((project, key) => (
             <div
               key={key}
